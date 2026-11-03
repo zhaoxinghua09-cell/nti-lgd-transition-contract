@@ -3,7 +3,7 @@
 This repository is the **first-party canonical mirror** of the *NTI x LGD transition-contract spec — v0.1.4*.
 
 - **Prepared by:** Xinghua Zhao, 2026-10-30.
-- **Provenance:** mirrored byte-for-byte from `abisheakp197/nti-spec/contracts/nti-transition-contract-spec-v0.1.4.md` (the copy merged into that project's CI). Local SHA-256 of the mirrored bytes: `a0d40175cc025213bcd356babd74c56171ee452ba362681ff8094ca249d8bab4`.
+- **Provenance:** the released v0.1.4 text as circulated on the agent-protocol list, attachment 2026Oct/att-0108. Local SHA-256 of the mirrored bytes: `83d88a70237aedb6bffdb446b8bd8e3e4df41291d2c178f33367a6e10d8fc763`. An earlier mirror text (commit 679b6e4, sha256 a0d40175...) diverged from the release; this commit restored byte equality with the released text. The lab record at 83d88a70 is reproducible from this repository end to end.
 - **Status:** Draft for comment. *Not agreed: neither side has accepted this text.* It is **not a procedure of any standards body and carries no weight outside its originating thread** (see spec §0.1 / §0.3). Do not cite it as a ratified standard.
 - **Purpose:** provide a stable, first-party, externally-verifiable anchor so that downstream references (e.g. NTI-1.md §6) link to a controlled copy rather than a third-party path.
 
