@@ -12,5 +12,13 @@ This repository is the **first-party canonical mirror** of the *NTI x LGD transi
 | Layer | Scope | License |
 |---|---|---|
 | Normative text | Sections 1-6 of the spec only | CC BY 4.0 |
-| Theory text & methodology | all LGD theory text, method descriptions, framework naming | All rights reserved |
+| Theory text & methodology | all LGD theory text, method descriptions, framework naming | CC BY 4.0 (since 2026-11-19 — see note below) |
 | Reference implementation | the code repository cited in spec §5 | Apache-2.0 (as code) |
+
+> **Rights-holder note, 2026-11-19.** The licence split above restates the
+> spec's §0.5 as circulated. On 2026-11-19 the rights holder ruled the LGD
+> theory line open: all LGD theory text and methodology is licensed
+> **CC BY 4.0**, superseding the "all rights reserved" position for that
+> layer. The mirrored spec text in this repository is byte-identical to the
+> released v0.1.4 (SHA-256 `83d88a70…`) and is **not** altered by this note;
+> the change is recorded here and in `LICENSE.md`, at the framing layer.
